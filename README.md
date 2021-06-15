@@ -2,7 +2,7 @@
 
 etext is a python module that lets you send text messages using email SMS gateways. Both SMS and MMS are supported.
 
-# Instalation
+# Installation
 ```
 pip install etext
 ```
